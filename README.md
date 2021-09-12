@@ -9,10 +9,10 @@ Sequence For Java_Notes
 4. Operators
 5. learningScanner
 6. ifAndEsle
-7. methods
-8. loops
-9. whileLoop
-10. Arrays
-11. String
-12. OOPS
-13. encapsulation
+7. loops
+8. whileLoop
+9. Arrays
+10. String
+11. OOPS
+12. encapsulation
+13. methods
